@@ -13,14 +13,15 @@ I'm Yohann — a student at the Ecole polytechnique. I'm passionate about math, 
 - Java
 
 ## Currently learning
-- Machine Learning
-- Data structures & algorithms
+- Statistics & Machine Learning
+- Data structures & Algorithms
 - Mathematical foundations for AI
 
 ## Goals
 - Build strong problem-solving skills
 - Work on meaningful AI and data-driven projects
 - Keep improving every day
+- Working with like-minded people :)
 
 ## Pronouns: his/him
 ---
