@@ -1,5 +1,29 @@
-## Hi there 👋
+## Hello World 👋
 
+I'm Yohann — a student at the Ecole polytechnique. I'm passionate about math, computer science and problem solving.
+
+## About me
+- Interested in AI, Data Science & Competitive Programming
+- I enjoy building things, understanding how systems work, and learning deeply
+- Currently exploring algorithms, machine learning, and software development
+
+## Languages & Tools
+- Python
+- C
+- Java
+
+## Currently learning
+- Machine Learning
+- Data structures & algorithms
+- Mathematical foundations for AI
+
+## Goals
+- Build strong problem-solving skills
+- Work on meaningful AI and data-driven projects
+- Keep improving every day
+
+## Pronouns: his/him
+---
 <!--
 **ybk237/ybk237** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
