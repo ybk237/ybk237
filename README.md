@@ -3,7 +3,7 @@
 I'm Yohann — a student at the Ecole polytechnique. I'm passionate about math, computer science and problem solving.
 
 ## About me
-- Interested in AI, Data Science & Competitive Programming
+- Interested in AI & Data Science
 - I enjoy building things, understanding how systems work, and learning deeply
 - Currently exploring algorithms, machine learning, and software development
 
